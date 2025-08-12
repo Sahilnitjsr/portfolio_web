@@ -48,12 +48,6 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        
-        <div className="pt-8 border-t border-accent/20 text-center">
-          <p className="text-muted-foreground flex items-center justify-center gap-2">
-            Made with <Heart className="w-4 h-4 text-red-500" /> by Your Name © 2024
-          </p>
-        </div>
       </div>
     </footer>
   );
