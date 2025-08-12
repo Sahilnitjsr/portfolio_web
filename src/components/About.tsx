@@ -49,7 +49,7 @@ const About = () => {
               <GraduationCap className="w-10 h-10 text-primary mb-2 mx-auto" />
               <h4 className="text-lg font-semibold">Bachelor of Technology</h4>
               <p className="text-muted-foreground">Computer Science & Engineering</p>
-              <p className="mt-1 text-primary font-bold">CGPA: 7.75</p>
+              <p className="mt-1 text-primary font-bold">CGPA: 7.65</p>
               <p className="text-muted-foreground mt-2 text-sm">NIT Jamshedpur</p>
             </div>
             <div>
